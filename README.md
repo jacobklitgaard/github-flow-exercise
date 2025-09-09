@@ -1,1 +1,1 @@
-# github-flow-exercise
+## GitHub flow exercise illustrating pull requests
